@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="hi">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>मीरा सुरेश सेवा न्यास</title>
+
+    <style>
+
+        body {
+
+            background-color: #e8f5e9;
+
+            font-family: 'Arial', sans-serif;
+
+            text-align: center;
+
+            padding: 50px;
+
+        }
+
+        h1 {
+
+            color: #2e7d32;
+
+            font-size: 36px;
+
+        }
+
+        p {
+
+            color: #555;
+
+            font-size: 20px;
+
+        }
+
+        .footer {
+
+            margin-top: 50px;
+
+            font-size: 14px;
+
+            color: #999;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1>स्वागत है मीरा सुरेश सेवा न्यास में</h1>
+
+    <p>यह हमारी पहली वेबसाइट है, जो GitHub Pages पर होस्ट की गई है।</p>
+
+
+    <div class="footer">
+
+        &copy; 2025 मीरा सुरेश सेवा न्यास, वार्ड नं. 12, कसया, कुशीनगर
+
+    </div>
+
+</body>
+
+</html>
